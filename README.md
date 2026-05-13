@@ -1,3 +1,4 @@
+
 # AI Lead Automation System
 
 Sistema de automatización inteligente para gestión y clasificación de leads desarrollado con n8n, Google Gemini AI, Google Sheets y Slack.
@@ -44,3 +45,10 @@ Formulario → Webhook → Gemini AI → JSON Parser → IF Router → Google Sh
 ## Caso de uso
 
 Desarrollado como solución de automatización comercial para una agencia de marketing y tecnología enfocada en generación y gestión de leads.
+<img width="1379" height="912" alt="Captura de pantalla 2026-05-12 a las 22 28 37" src="https://github.com/user-attachments/assets/3bfb486a-b453-4af0-bbbb-cd6d6e27f104" />
+<img width="532" height="360" alt="FC04C890-1AA6-4BFF-B220-B8E7D6780B97_4_5005_c" src="https://github.com/user-attachments/assets/d468da89-9556-4583-befd-c8278f775cdc" />
+<img width="532" height="360" alt="CD2010A7-9215-46A5-8307-CBC2EDD4DBC1_4_5005_c" src="https://github.com/user-attachments/assets/56cb7390-ec85-4c40-82d0-517e778ffc68" />
+<img width="2048" height="1535" alt="B83CB2D7-B464-4FCD-9B04-8ACE1921E939_1_102_o" src="https://github.com/user-attachments/assets/c0b27086-b23a-4925-8dc9-4e5ee78bc240" />
+
+
+<img width="544" height="359" alt="0BE1FA89-12CA-4497-8CDF-4B986D67ED28_4_5005_c" src="https://github.com/user-attachments/assets/f6be42e3-635c-4cb9-bd30-4c1c68c728b6" />
